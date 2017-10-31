@@ -1,0 +1,29 @@
+{
+  "name": "wikicountry",
+  "version": "1.0.0",
+  "description": "Countries of the world mini wiki",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wiki",
+    "example",
+    "academy"
+  ],
+  "author": "Vector Academy",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "browser-sync": "^2.18.8",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.4.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.5.1",
+    "run-sequence": "^1.2.2"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
